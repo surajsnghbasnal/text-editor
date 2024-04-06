@@ -3,6 +3,7 @@ import { useState } from "react";
 
 function App() {
   const [Data, setData] = useState();
+
   const [fontSize, setfontSize] = useState(16);
   const [Bold, setBold] = useState();
   const [isClicked, setIsClicked] = useState(1);
