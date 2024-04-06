@@ -66,7 +66,7 @@ function App() {
         >
           <p className="text-center"> Text Editor </p>
           <div id="font-size " className="border-2 p-1 rounded-md">
-            <p> Font Size: </p>
+            <p> Font Size: eifjnwefjnweifjwe</p>
 
 
 
